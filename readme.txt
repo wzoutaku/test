@@ -1,2 +1,2 @@
-Hello OSS,I have changed this text.
+Hello OSS,I have changed.
 Git is free software.
